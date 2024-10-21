@@ -6,3 +6,5 @@ hi:
 	@echo "hi"
 one:
 	@echo "by"
+three:
+
